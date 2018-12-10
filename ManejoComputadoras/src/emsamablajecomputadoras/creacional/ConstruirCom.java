@@ -15,5 +15,6 @@ public abstract class ConstruirCom {
 	
 	public abstract void construirSO();
 	public abstract void construirplaca();
+	public abstract void construirComponentes();
 
 }
